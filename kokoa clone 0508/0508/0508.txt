@@ -35,3 +35,9 @@ HTML＆CSSはPROGRAMING 言語ではありません
 ２．そのファイルをＶＳに入れる
 ３．例）ＫＯＫＯＡ ＣＬＯＮＥの名前でExplorerが出てくる
 ４．ファイル名大文字ｘ＞＞絶対＜＜
+
+<tag>なんとか</tag>
+WEBSITEが認識できるタグはｈ６まで
+
+<ul></ul>
+unordered list 整理されてないWEBSITE
