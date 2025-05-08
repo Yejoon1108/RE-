@@ -40,4 +40,13 @@ HTML＆CSSはPROGRAMING 言語ではありません
 WEBSITEが認識できるタグはｈ６まで
 
 <ul></ul>
-unordered list 整理されてないWEBSITE
+unordered list 整理されてない
+
+<li></li>
+list items > 点で整理されてる
+
+一回で多数の同じタグの変更はCTRL＋Dで全て選択、そして修正
+
+<a href="http://www.google.com" target="_blank">Go to Google</a>
+これなら　Go to google を押したら www.googel.com のところにいく
+そして、blankっていうのは新しいタップを開けるってこと
